@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdmarAlvez
 - 👀 I’m interested in tecnologia da informação
-- 🌱 I’m currently learning Progamação
+- 🌱 I’m currently learning Programação
 - 💞️ I’m looking to collaborate on em projetos pra  ganhar experiência
 - 📫 How to reach me ...
 
